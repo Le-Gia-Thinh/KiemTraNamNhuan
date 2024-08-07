@@ -1,0 +1,14 @@
+D:\C#\CodeGym\BaiTapC#\KiemTraNamNhuan\bin\Debug\net8.0\KiemTraNamNhuan.exe
+D:\C#\CodeGym\BaiTapC#\KiemTraNamNhuan\bin\Debug\net8.0\KiemTraNamNhuan.deps.json
+D:\C#\CodeGym\BaiTapC#\KiemTraNamNhuan\bin\Debug\net8.0\KiemTraNamNhuan.runtimeconfig.json
+D:\C#\CodeGym\BaiTapC#\KiemTraNamNhuan\bin\Debug\net8.0\KiemTraNamNhuan.dll
+D:\C#\CodeGym\BaiTapC#\KiemTraNamNhuan\bin\Debug\net8.0\KiemTraNamNhuan.pdb
+D:\C#\CodeGym\BaiTapC#\KiemTraNamNhuan\obj\Debug\net8.0\KiemTraNamNhuan.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\CodeGym\BaiTapC#\KiemTraNamNhuan\obj\Debug\net8.0\KiemTraNamNhuan.AssemblyInfoInputs.cache
+D:\C#\CodeGym\BaiTapC#\KiemTraNamNhuan\obj\Debug\net8.0\KiemTraNamNhuan.AssemblyInfo.cs
+D:\C#\CodeGym\BaiTapC#\KiemTraNamNhuan\obj\Debug\net8.0\KiemTraNamNhuan.csproj.CoreCompileInputs.cache
+D:\C#\CodeGym\BaiTapC#\KiemTraNamNhuan\obj\Debug\net8.0\KiemTraNamNhuan.dll
+D:\C#\CodeGym\BaiTapC#\KiemTraNamNhuan\obj\Debug\net8.0\refint\KiemTraNamNhuan.dll
+D:\C#\CodeGym\BaiTapC#\KiemTraNamNhuan\obj\Debug\net8.0\KiemTraNamNhuan.pdb
+D:\C#\CodeGym\BaiTapC#\KiemTraNamNhuan\obj\Debug\net8.0\KiemTraNamNhuan.genruntimeconfig.cache
+D:\C#\CodeGym\BaiTapC#\KiemTraNamNhuan\obj\Debug\net8.0\ref\KiemTraNamNhuan.dll
